@@ -101,8 +101,8 @@ Mock database user dan konstanta global:
 
 | Email | Password | Role |
 |-------|----------|------|
-| admin@example.com | Admin123! | admin |
-| user@example.com | User123! | user |
+| admin@gmail.com | Admin123 | admin |
+| user@gmail.com | User123 | user |
 
 ---
 
@@ -140,3 +140,4 @@ export async function authenticate(email, password) {
 ## 📄 Lisensi
 
 MIT License — bebas digunakan dan dimodifikasi.
+by. zionyx
